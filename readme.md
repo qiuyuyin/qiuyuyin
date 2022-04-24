@@ -12,7 +12,7 @@ type yili struct {
 }
 func(me *yili) yili(str string) {
     me.university = "Huazhong University of Science and Tech"
-    me.hobby = []{"coding💻", "basketball🏀", "anime🙈", "games🎮"}
+    me.hobby = [...]{"coding💻", "basketball🏀", "anime🙈", "games🎮"}
     me.blog = "https://www.yili.fit"
     fmt.Println(str)
 }
