@@ -13,14 +13,8 @@ My hobbies are games and music, and my favorite singer is Xu Song.
 
 ## 💭Lately
 
-* Front-end development work
-* Research more logical writing and stick to writing
+* gopher | all stacker  
 
-## 💬Languages
-
-![](https://img.shields.io/badge/Javascript-Learning-0066B8?style=flat-square&logo=HTML5&logoColor=ffffff) 
-![](https://img.shields.io/badge/Vue-Learning-0066B8?style=flat-square&logo=PHP&logoColor=ffffff) 
-![](https://img.shields.io/badge/PHP-Learning-0066B8?style=flat-square&logo=Cplusplus&logoColor=ffffff) 
 
 
 ## 🔗Links
