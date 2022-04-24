@@ -2,7 +2,7 @@
 
 
 ```go
-package yili
+package main
 import "fmt"
 
 type yili struct {
@@ -16,7 +16,9 @@ func(me *yili) yili(str string) {
     me.blog = "https://www.yili.fit"
     fmt.Println(str)
 }
-go yili("go back to study!")
+func main() {
+    go yili("go back to study!")
+}
 ```
 
 ## 🌝Tags
