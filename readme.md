@@ -1,22 +1,27 @@
 # This is yili 👋
 
-![](https://komarev.com/ghpvc/?username=qiuyuyin&color=dc143c)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=qiuyuyin&show_icons=true"/>
+```go
+package yili
+import "fmt"
 
-A coder, likes to toss some technology, is still working + studying hard, and often records something in my personal blog, such as: programming notes or reading notes, etc., as long as I am interested, I will write it down. It can be regarded as increasing their own knowledge. 📖
+type yili struct {
+    university string
+    hobby []string
+    blog string
+}
+func(me *yili) yili(str string) {
+    me.university = "Huazhong University of Science and Tech"
+    me.hobby = []{"coding💻", "basketball🏀", "anime🙈", "games🎮"}
+    me.blog = "https://www.yili.fit"
+    fmt.Println(str)
+}
+go yili("go back to study!")
+```
 
-My hobbies are games and music, and my favorite singer is Xu Song.
-
-"A sentence I like very much. 'the road ahead will be long and our climb will be steep."
-
-
-## 💭Lately
-
-* gopher | all stacker  
-
-
+## 🌝Tags
+Gopher / all stacker / Vuer / Java quiter / little writer / Gamer
 
 ## 🔗Links
 
-* Blog: [https://imhan.cn](https://www.yili.fit/)
+- Blog: [https://www.yili.fit](https://www.yili.fit/)
