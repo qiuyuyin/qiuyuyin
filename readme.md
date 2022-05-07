@@ -7,12 +7,12 @@ import "fmt"
 
 type yili struct {
     university string
-    hobby []string
+    hobbies []string
     blog string
 }
 func(me *yili) yili(str string) {
     me.university = "Huazhong University of Science and Tech"
-    me.hobby = [...]{"coding💻", "basketball🏀", "anime🙈", "games🎮"}
+    me.hobbies = [...]{"coding💻", "basketball🏀", "anime🙈", "games🎮"}
     me.blog = "https://www.yili.fit"
     fmt.Println(str)
 }
