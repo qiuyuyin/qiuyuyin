@@ -22,7 +22,7 @@ func main() {
 ```
 
 ## 🌝Tags
-Gopher / all stacker / Rustacean / Vuer / Java quiter / blog writer / Gamer 
+Gopher / All stacker / Rustacean / Vuer / Java quiter / Blog writer / Gamer 
 
 ## 🔗Links
 
